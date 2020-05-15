@@ -1,0 +1,32 @@
+{
+  "name": "less-to-wxss",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "less-to-wxss": "./bin/less-to-wxss.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "chokidar": "^2.0.4",
+    "commander": "^2.16.0",
+    "less": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habc0807/less-to-wxss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habc0807/less-to-wxss/issues"
+  },
+  "homepage": "https://github.com/habc0807/less-to-wxss#readme"
+}
